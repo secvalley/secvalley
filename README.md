@@ -16,25 +16,25 @@
 
 ## About
 
-SecValley is a **Cloud Security Posture Management (CSPM) platform** and **cybersecurity advisory firm**. We help organizations identify misconfigurations, assess risk, and maintain continuous compliance across their cloud environments.
+SecValley is a **Cloud Security Posture Management (CSPM) platform** and **cybersecurity advisory firm**. We help organizations find misconfigurations, assess risk, and stay compliant across their cloud environments.
 
 ## CSPM Platform
 
-Most CSPM tools give you surface-level infrastructure checks. SecValley goes deeper — covering the **full Microsoft cloud stack** from Exchange Online and SharePoint to Entra ID and Azure infrastructure, with the most comprehensive control set in the market.
+Most CSPM tools stop at basic infrastructure checks. SecValley covers the **full Microsoft cloud stack**: Exchange Online, SharePoint, OneDrive, Teams, Entra ID, and Azure infrastructure. It's the most comprehensive control set you'll find for Microsoft environments.
 
 | Capability | Details |
 |---|---|
-| **Security Controls** | 400+ built-in controls across 12 analysis layers — more coverage than tools costing 10x as much |
-| **Setup Time** | Agentless, read-only. Connect your environment in **minutes**, not weeks. No agents, no infrastructure, no overhead. |
-| **Attack Path Analysis** | Visualize lateral movement paths and exploitable chains before adversaries find them |
-| **Compliance Mapping** | SOC 2 · ISO 27001 · HIPAA · PCI-DSS · CIS · KVKK · GDPR — mapped automatically, audit-ready |
-| **Cloud Coverage** | Microsoft 365 · Entra ID · Azure *(AWS & GCP coming soon)* |
+| **Security Controls** | 400+ built-in controls across 12 analysis layers. More coverage than tools that cost 10x as much. |
+| **Setup Time** | Agentless, read-only. Connect in **minutes**, not weeks. No agents, no infrastructure to manage. |
+| **Attack Path Analysis** | Maps lateral movement paths and exploitable chains across your environment |
+| **Compliance Mapping** | SOC 2, ISO 27001, HIPAA, PCI-DSS, CIS, GDPR. Mapped automatically, audit-ready. |
+| **Cloud Coverage** | Microsoft 365, Entra ID, Azure *(AWS & GCP coming soon)* |
 
 ### Why Teams Choose SecValley
 
-- **Deepest Microsoft coverage available.** Exchange Online, SharePoint, OneDrive, Teams, Entra ID, and Azure — analyzed together, not in silos. No other CSPM tool covers the Microsoft 365 ecosystem at this depth.
-- **The easiest integration in the CSPM market.** No agents to deploy, no firewall rules to change, no infrastructure to manage. Read-only access, full scan in under 5 minutes. Your team spends time fixing issues, not configuring tools.
-- **Built for small and mid-size businesses.** Enterprise-grade CSPM platforms (Wiz, Prisma Cloud, Microsoft Defender) cost $100K–$500K+/year and require dedicated security teams to operate. SecValley delivers the same depth of coverage at a fraction of the cost — saving SMBs hundreds of thousands of dollars while providing plain-language recommendations that don't require a security engineer to interpret.
+- **Deepest Microsoft coverage available.** Exchange Online, SharePoint, OneDrive, Teams, Entra ID, and Azure, analyzed together instead of in silos. No other CSPM tool covers the Microsoft 365 ecosystem at this depth.
+- **Easiest integration in the CSPM market.** No agents to deploy, no firewall rules to change, no infrastructure to manage. Read-only access, full scan in under 5 minutes. Your team spends time fixing issues, not configuring tools.
+- **Built for small and mid-size businesses.** Enterprise CSPM platforms like Wiz, Prisma Cloud, and Microsoft Defender cost $100K-$500K+/year and need dedicated security teams to run. SecValley gives you the same depth of coverage at a fraction of the cost, saving SMBs hundreds of thousands of dollars. Plain-language recommendations mean you don't need a security engineer to understand what to fix.
 
 ## Open Source
 
