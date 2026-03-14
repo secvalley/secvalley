@@ -45,7 +45,6 @@ We publish practical security resources for the community.
 | [cloud-security-checklist](https://github.com/secvalley/cloud-security-checklist) | 215 security controls across Azure, AWS, GCP, M365, Kubernetes, and IaC |
 | [m365-security-baseline](https://github.com/secvalley/m365-security-baseline) | Microsoft 365 hardening baseline for Exchange, SharePoint, Teams |
 | [entra-id-security-checklist](https://github.com/secvalley/entra-id-security-checklist) | Entra ID security checklist: Conditional Access, PIM, MFA, app security |
-| [cspm-tools-comparison](https://github.com/secvalley/cspm-tools-comparison) | Honest comparison of CSPM tools: Wiz, Prisma Cloud, Defender, and more |
 
 ## Advisory Services
 
