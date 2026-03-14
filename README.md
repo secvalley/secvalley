@@ -24,7 +24,7 @@ Our platform delivers deep security visibility into Microsoft cloud ecosystems:
 
 | Capability | Details |
 |---|---|
-| **Security Controls** | 194 built-in checks across identity, data, network, and application layers |
+| **Security Controls** | 194 built-in controls across 12 analysis layers (identity, access, data, network, compute, storage, and more) |
 | **Attack Path Analysis** | Discover exploitable paths before adversaries do |
 | **Compliance Mapping** | SOC 2 · ISO 27001 · HIPAA · PCI-DSS · CIS · KVKK · GDPR |
 | **Cloud Coverage** | Microsoft 365 · Entra ID · Azure |
